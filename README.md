@@ -38,7 +38,7 @@ Barrier coverage is essential for security scenarios such as perimeter protectio
 5. **Structured recovery:** if any RA fails, mark region blocked and trigger Path-Q replanning to avoid cascading failures.
 
 <p align="center">
-  <img src="pic\image.png" width="1000">
+  <img src="pic\image.png" width="720">
 </p>
 
 ---
@@ -53,8 +53,8 @@ Below are example results you can showcase in the README (place regenerated figu
 
 
 <p align="center">
-  <img src="pic\image-1.png" width="420">
-  <img src="pic\image-2.png" width="420">
+  <img src="pic\image-1.png" width="320">
+  <img src="pic\image-2.png" width="320">
 </p>
 
 
@@ -65,8 +65,8 @@ Below are example results you can showcase in the README (place regenerated figu
 
 
 <p align="center">
-  <img src="pic\image-3.png" width="420">
-  <img src="pic\image-4.png" width="420">
+  <img src="pic\image-3.png" width="320">
+  <img src="pic\image-4.png" width="320">
 </p>
 
 
@@ -76,11 +76,11 @@ Below are example results you can showcase in the README (place regenerated figu
 
 
 <p align="center">
-  <img src="pic\image-5.png" width="420">
+  <img src="pic\image-5.png" width="320">
 </p>
 
 <p align="center">
-  <img src="pic\image-6.png" width="720">
+  <img src="pic\image-6.png" width="600">
 </p>
 
 ### 4) Scheduling Overhead under Intrusion
